@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="섹션2.Complex Data.cpp">
+    <ClCompile Include="1배열과 문자열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2.사용자입력과 string.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.구조체.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.공용체와 열거체.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

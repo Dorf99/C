@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="섹션2.Complex Data.cpp" />
+    <ClCompile Include="1배열과 문자열.cpp" />
+    <ClCompile Include="2.사용자입력과 string.cpp" />
+    <ClCompile Include="3.구조체.cpp" />
+    <ClCompile Include="4.공용체와 열거체.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
