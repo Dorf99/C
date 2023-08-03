@@ -30,10 +30,16 @@
     <ClCompile Include="5.포인터와 메모리 해제(1).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="6.0 포인터와 메모리 해제%282%29.cpp">
+    <ClCompile Include="6.1 포인터와 메모리 해제%282%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="6.1 delete 예제.cpp">
+    <ClCompile Include="6.2 delete 예제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1포인터연산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2 동적 구조체 생성.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

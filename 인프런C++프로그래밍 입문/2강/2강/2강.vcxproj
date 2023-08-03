@@ -132,8 +132,10 @@
     <ClCompile Include="3.구조체.cpp" />
     <ClCompile Include="4.공용체와 열거체.cpp" />
     <ClCompile Include="5.포인터와 메모리 해제(1).cpp" />
-    <ClCompile Include="6.1 delete 예제.cpp" />
-    <ClCompile Include="6.0 포인터와 메모리 해제%282%29.cpp" />
+    <ClCompile Include="6.2 delete 예제.cpp" />
+    <ClCompile Include="6.1 포인터와 메모리 해제%282%29.cpp" />
+    <ClCompile Include="7.1포인터연산.cpp" />
+    <ClCompile Include="7.2 동적 구조체 생성.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
