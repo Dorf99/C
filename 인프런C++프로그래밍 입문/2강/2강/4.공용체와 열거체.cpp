@@ -5,7 +5,7 @@ using namespace std;
 // 1. 공용체(union)
 // 2. 열거체(enum)
 
-int main() {
+int main_4() {
 	// 공용체(union)
 	// 서로 다른 데이터형을 한 번에 한 가지만 보관할 수 있음.
 
