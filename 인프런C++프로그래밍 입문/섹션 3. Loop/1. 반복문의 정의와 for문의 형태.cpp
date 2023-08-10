@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int main_1()
 {
 	// 반복문이란?
 	char a[10] = { 'a' , 'b', 'c', 'd', 'e' };

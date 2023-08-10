@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1. 반복문의 정의와 for문의 형태.cpp" />
+    <ClCompile Include="2. 증가,감소 연사자와 관계표현식.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
