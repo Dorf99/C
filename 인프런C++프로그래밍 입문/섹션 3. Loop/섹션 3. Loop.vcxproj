@@ -130,6 +130,7 @@
     <ClCompile Include="1. 반복문의 정의와 for문의 형태.cpp" />
     <ClCompile Include="2. 증가,감소 연산자와 관계표현식.cpp" />
     <ClCompile Include="3. while루프와 do while 루프.cpp" />
+    <ClCompile Include="4. 반복문의 활용.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

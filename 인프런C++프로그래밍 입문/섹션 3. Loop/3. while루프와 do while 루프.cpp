@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int main_3()
 {
 	// while¹®, do while¹®
 
