@@ -130,6 +130,8 @@
     <ClCompile Include="1. 함수의 기초.cpp" />
     <ClCompile Include="2. 매개변수와 전달인자.cpp" />
     <ClCompile Include="3. 함수와 배열.cpp" />
+    <ClCompile Include="4. 함수와 구조체.cpp" />
+    <ClCompile Include="5. 재귀함수와 함수를 지시하는 포인터.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
